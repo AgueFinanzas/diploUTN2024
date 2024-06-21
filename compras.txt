@@ -1,0 +1,7 @@
+carne
+pollo
+pescado
+galletitas
+salados
+leche
+pan
